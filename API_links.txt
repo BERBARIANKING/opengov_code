@@ -1,0 +1,5 @@
+    "Germany": "https://www.govdata.de/ckan/api/3/action/package_search",
+    "Italy": "https://www.dati.gov.it/opendata/api/3/action/package_list",
+    "Spain": "https://datos.gob.es/apidata/catalog/dataset",
+    "Netherlands": "https://ckan.dataplatform.nl/api/3/action/package_search",
+    "France": "https://www.data.gouv.fr/api/1/datasets/"  
