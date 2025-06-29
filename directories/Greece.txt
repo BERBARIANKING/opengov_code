@@ -1,0 +1,145 @@
+11 HTTP transactions 
+0 data transactions
+Method
+Protocol	Status	Resource
+Path	Size
+x-fer	Time
+Latency	Type
+MIME-Type	IP
+Location
+ GET
+H2	200
+Primary Request /
+data.gov.gr/	437 B
+581 B	199ms
+74ms	Document
+text/html	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+index-DR83VGij.js
+data.gov.gr/assets/	8 MB
+8 MB	92ms
+92ms	Script
+application/javascript	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+index-D29ItBHY.css
+data.gov.gr/assets/	418 KB
+418 KB	58ms
+58ms	Stylesheet
+text/css	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+govgr-logo-FmNMjBZV.svg
+data.gov.gr/assets/	42 KB
+42 KB	16ms
+16ms	Image
+image/svg+xml	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+govgr-footer-CLtKQLVA.svg
+data.gov.gr/assets/	92 KB
+92 KB	19ms
+19ms	Image
+image/svg+xml	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ OPTIONS
+H2	200
+/
+data.gov.gr/api/v1/datasets/	5 KB
+5 KB	103ms
+103ms	XHR
+application/json	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+/
+data.gov.gr/api/v1/datasets/popular/	20 KB
+20 KB	30ms
+30ms	XHR
+application/json	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+/
+data.gov.gr/api/v1/articles/	52 B
+341 B	88ms
+88ms	XHR
+application/json	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+/
+data.gov.gr/api/v1/homepage/	431 KB
+432 KB	66ms
+66ms	XHR
+application/json	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+fa-solid-900-CTAAxXor.woff2
+data.gov.gr/assets/	155 KB
+155 KB	20ms
+20ms	Font
+font/woff2	23.101.73.62
+ MICROSOFT-CORP-MS...	
+ GET
+H2	200
+favicon.ico
+data.gov.gr/	178 KB
+178 KB	33ms
+32ms	Other
+image/x-icon	23.101.73.62
+ MICROSOFT-CORP-MS...	
+
+--------------------------------------------------
+
+data.gov.gr
+23.101.73.62  
+  
+ 
+URL: https://data.gov.gr/
+Submission: On June 29 via manual (June 29th 2025, 8:48:32 am UTC) from GR  — Scanned from NL 
+  
+9 Outgoing links
+These are links going to different origins than the main page.
+
+URL: https://www.gov.gr/
+  
+
+URL: https://axiologisi.ypes.gov.gr/
+Title: axiologisi.ypes.gov.gr
+  
+
+URL: https://www.apdkritis.gov.gr/el
+Title: Αποκεντρωμένης Διοίκησης Κρήτης
+  
+
+URL: https://www.apdkritis.gov.gr/el/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B4%CE%BF%CE%BC%CE%AE/%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B4%CE%B9%CE%B5%CF%8D%CE%B8%CF%85%CE%BD%CF%83%CE%B7-%CF%87%CF%89%CF%81%CE%BF%CF%84%CE%B1%CE%BE%CE%B9%CE%BA%CE%AE%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%B1%CE%B3%CF%81%CE%BF%CF%84%CE%B9%CE%BA%CE%B7%CF%82-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%AE%CF%82/%CE%B4%CE%B9%CE%B5%CF%8D%CE%B8%CF%85%CE%BD%CF%83%CE%B7-%CF%85%CE%B4%CE%AC%CF%84%CF%89%CE%BD
+Title: Διεύθυνση Υδάτων
+  
+
+URL: https://data.apdkritis.gov.gr/el
+Title: Αποθετήριο Ανοιχτών Δεδομένων
+  
+
+URL: https://creativecommons.org/licenses/by/4.0/
+Title: Crative Commons Attribution
+  
+
+URL: https://metrics.ekt.gr/research-development
+Title: https://metrics.ekt.gr/research-development
+  
+
+URL: https://metrics.ekt.gr/digital-transformation
+Title: https://metrics.ekt.gr/digital-transformation
+  
+
+URL: http://repository.data.gov.gr/
+Title: repository.data.gov.gr
+  
+
