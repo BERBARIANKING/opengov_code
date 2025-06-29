@@ -1,0 +1,308 @@
+33 HTTP transactions 
+0 data transactions
+Method
+Protocol	Status	Resource
+Path	Size
+x-fer	Time
+Latency	Type
+MIME-Type	IP
+Location
+ GET
+H/1.1	200
+OK	Primary Request /
+www.govdata.de/	135 KB
+50 KB	145ms
+94ms	Document
+text/html	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	flag_germany.5ce9c0d0.svg
+www.govdata.de/_next/static/media/	453 B
+864 B	40ms
+12ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	typ_dataset_inverted.d1875f2c.svg
+www.govdata.de/_next/static/media/	1 KB
+1 KB	44ms
+11ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	hvd.469cf8d0.svg
+www.govdata.de/_next/static/media/	1 KB
+1 KB	51ms
+11ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	typ_showcase_inverted.9669dbc9.svg
+www.govdata.de/_next/static/media/	1 KB
+1 KB	20ms
+11ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	mastodon.063257e7.svg
+www.govdata.de/_next/static/media/	27 KB
+20 KB	18ms
+13ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	remove.4fcac1ed.svg
+www.govdata.de/_next/static/media/	977 B
+1 KB	13ms
+11ms	Image
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	a8c7d01d323e33e3.css
+www.govdata.de/_next/static/css/	1 KB
+999 B	26ms
+12ms	Stylesheet
+text/css	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	99ee03066320fede.css
+www.govdata.de/_next/static/css/	10 KB
+2 KB	31ms
+12ms	Stylesheet
+text/css	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	889c9c3feee95090.css
+www.govdata.de/_next/static/css/	724 KB
+84 KB	31ms
+13ms	Stylesheet
+text/css	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	webpack-1e32f7ec894fcb1e.js
+www.govdata.de/_next/static/chunks/	4 KB
+2 KB	23ms
+12ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	fd9d1056-e4f0f012176ca564.js
+www.govdata.de/_next/static/chunks/	169 KB
+53 KB	24ms
+15ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	2117-12fbf51f6685a53c.js
+www.govdata.de/_next/static/chunks/	121 KB
+32 KB	21ms
+14ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	main-app-5c0c4514e8b11f35.js
+www.govdata.de/_next/static/chunks/	471 B
+687 B	24ms
+11ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	6550-030c46ea09d15c2c.js
+www.govdata.de/_next/static/chunks/	47 KB
+14 KB	23ms
+15ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	5878-10848be0a2bc8207.js
+www.govdata.de/_next/static/chunks/	13 KB
+6 KB	19ms
+11ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	5447-a15f6ea46f30e8cc.js
+www.govdata.de/_next/static/chunks/	33 KB
+12 KB	24ms
+12ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	7487-45ee34e9144f33cb.js
+www.govdata.de/_next/static/chunks/	8 KB
+3 KB	43ms
+21ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	4457-ae03598dbaf726c4.js
+www.govdata.de/_next/static/chunks/	46 KB
+13 KB	22ms
+20ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	9704-b1cea49eddc59b76.js
+www.govdata.de/_next/static/chunks/	14 KB
+5 KB	39ms
+12ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	layout-4fda21546693fb3c.js
+www.govdata.de/_next/static/chunks/app/	23 KB
+7 KB	16ms
+12ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	page-50cc1672bdba4887.js
+www.govdata.de/_next/static/chunks/app/	14 KB
+4 KB	28ms
+18ms	Script
+application/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	matomo.js
+stat.govdata.de/	64 KB
+21 KB	1208ms
+17ms	Script
+text/javascript	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	connectionmap.adcbbba2.jpg
+www.govdata.de/_next/static/media/	189 KB
+189 KB	36ms
+20ms	Image
+image/jpeg	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	noto-sans-latin-700-normal.f95ce068.woff2
+www.govdata.de/_next/static/media/	13 KB
+13 KB	13ms
+11ms	Font
+font/woff2	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	noto-sans-latin-400-normal.82f75d23.woff2
+www.govdata.de/_next/static/media/	13 KB
+13 KB	17ms
+12ms	Font
+font/woff2	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	govdata.cb1cd0d6.woff
+www.govdata.de/_next/static/media/	7 KB
+8 KB	16ms
+11ms	Font
+font/woff	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	fa-brands-400.f3d2faf9.woff2
+www.govdata.de/_next/static/media/	116 KB
+116 KB	18ms
+12ms	Font
+font/woff2	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	fa-solid-900.0066af05.woff2
+www.govdata.de/_next/static/media/	155 KB
+155 KB	22ms
+12ms	Font
+font/woff2	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	image
+www.govdata.de/_next/	9 KB
+9 KB	19ms
+13ms	Image
+image/webp	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	favicon.svg
+www.govdata.de/images/favicons/	1 KB
+724 B	11ms
+11ms	Other
+image/svg+xml	167.235.64.74
+ HETZNER-AS Hetzne...	
+ GET
+H/1.1	200
+OK	favicon.ico
+www.govdata.de/	1 KB
+692 B	12ms
+12ms	Other
+image/x-icon	167.235.64.74
+ HETZNER-AS Hetzne...	
+ POST
+H/1.1	204
+No Response	matomo.php
+stat.govdata.de/	0
+293 B	81ms
+80ms	Ping
+text/plain	167.235.64.74
+ HETZNER-AS Hetzne...	
+
+-----------------------------------------------------
+
+7 Outgoing links
+These are links going to different origins than the main page.
+
+URL: https://mastodon.social/@opendata@social.bund.de
+Title: GovData13. Mai 2025@opendataHeute Abend geht es los mit dem Eurovision Song Contest in Basel #ESC #Eurovision2025 Unsere Kollegen aus @opendatabs haben alle Fragen und Antworten zu dem Event gesammelt und als #OpenData-Datensatz veröffentlicht. Wer also am Wochenende dabei sein wird, dann kann sich hier informieren: 🎙 https://data.bs.ch/explore/dataset/100417/information/ 🎻 #OGD #Basel @FITKOfoederal #FITKO #GovData
+  
+
+URL: https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html
+Title: Kompetenzzentrum Open Data
+  
+
+URL: https://discourse.opencode.de/c/opendata/755
+Title: Forum
+  
+
+URL: https://discourse.opencode.de/c/opendata/datenbedarfe/758
+Title: Datenbedarfe
+  
+
+URL: https://discourse.opencode.de/c/opendata/anwendungen/757
+Title: Anwendungen
+  
+
+URL: https://www.linkedin.com/company/govdata-de
+Title: LinkedIn
+  
+
+URL: https://gitlab.opencode.de/fitko/govdata
+Title: GitLab
+  
+
+
