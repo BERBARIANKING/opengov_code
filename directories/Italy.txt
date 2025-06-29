@@ -1,0 +1,1273 @@
+
+Method
+Protocol	Status	Resource
+Path	Size
+x-fer	Time
+Latency	Type
+MIME-Type	IP
+Location
+ GET
+H2	200
+Primary Request /
+www.dati.gov.it/	203 KB
+27 KB	468ms
+159ms	Document
+text/html	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+core.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	2 KB
+1 KB	82ms
+60ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+controlgroup.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	1 KB
+1 KB	85ms
+63ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+checkboxradio.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	792 B
+1 KB	84ms
+63ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+resizable.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	1 KB
+1 KB	85ms
+65ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+button.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	1 KB
+1 KB	82ms
+62ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	2 KB
+1 KB	85ms
+66ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+progress.module.css
+www.dati.gov.it/themes/contrib/stable/css/core/components/	826 B
+1 KB	86ms
+66ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ajax-progress.module.css
+www.dati.gov.it/themes/contrib/stable/css/core/components/	1 KB
+1 KB	81ms
+62ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+align.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	484 B
+910 B	85ms
+67ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+fieldgroup.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	95 B
+793 B	87ms
+69ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+container-inline.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	222 B
+849 B	158ms
+140ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+clearfix.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	306 B
+912 B	160ms
+143ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+details.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	104 B
+799 B	155ms
+138ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+hidden.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	1 KB
+1 KB	158ms
+142ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+item-list.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	285 B
+847 B	151ms
+134ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+js.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	402 B
+927 B	149ms
+132ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+nowrap.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	96 B
+797 B	161ms
+145ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+position-container.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	95 B
+785 B	162ms
+147ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+reset-appearance.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	274 B
+886 B	163ms
+148ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+resize.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	270 B
+852 B	167ms
+152ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+system-status-counter.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	742 B
+995 B	167ms
+153ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+system-status-report-counters.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	557 B
+999 B	168ms
+154ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+system-status-report-general-info.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	255 B
+864 B	170ms
+157ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+tablesort.module.css
+www.dati.gov.it/themes/contrib/stable/css/system/components/	373 B
+906 B	172ms
+159ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ckeditor5.dialog.fix.css
+www.dati.gov.it/core/modules/ckeditor5/css/	56 B
+706 B	171ms
+158ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+views.module.css
+www.dati.gov.it/themes/contrib/stable/css/views/	434 B
+906 B	169ms
+156ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+eu_cookie_compliance.css
+www.dati.gov.it/modules/contrib/eu_cookie_compliance/css/	6 KB
+2 KB	167ms
+155ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+theme.css
+www.dati.gov.it/core/assets/vendor/jquery.ui/themes/base/	18 KB
+4 KB	214ms
+202ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+calendar.css
+www.dati.gov.it/modules/contrib/calendar/css/	8 KB
+3 KB	211ms
+200ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+calendar_multiday.css
+www.dati.gov.it/modules/contrib/calendar/css/	19 KB
+4 KB	215ms
+204ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+twitter-feeds.css
+www.dati.gov.it/modules/custom/twitter_tweets/css/	1 KB
+1 KB	211ms
+201ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+onecol.css
+www.dati.gov.it/core/modules/layout_discovery/layouts/onecol/	116 B
+815 B	171ms
+161ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+owl.carousel.css
+www.dati.gov.it/modules/custom/owlcarousel/lib/owl-carousel/	1 KB
+1 KB	211ms
+202ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+owl.theme.css
+www.dati.gov.it/modules/custom/owlcarousel/lib/owl-carousel/	2 KB
+1 KB	217ms
+208ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+owl.transitions.css
+www.dati.gov.it/modules/custom/owlcarousel/lib/owl-carousel/	4 KB
+1 KB	212ms
+203ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+main.css
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/css/	475 KB
+70 KB	216ms
+207ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+agid.css
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/agid/css/	19 KB
+5 KB	214ms
+205ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+icons.css
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/agid/css/	8 KB
+2 KB	212ms
+203ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dataset-colors.css
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/agid/css/	2 KB
+995 B	214ms
+206ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+injections.css
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/agid/css/	45 B
+695 B	214ms
+206ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+footer_loghi-623964cf7c34453806922243fc4f910b.css
+www.dati.gov.it/sites/default/files/asset_injector/css/	803 B
+904 B	167ms
+160ms	Stylesheet
+text/css	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+logo.png
+www.dati.gov.it/themes/contrib/bootstrap_italia/	10 KB
+11 KB	211ms
+204ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+unione%20europea%20logo.png
+www.dati.gov.it/sites/default/files/2021-03/	19 KB
+20 KB	214ms
+207ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+agenzia%20per%20la%20coesione%20territoriale%20logo.png
+www.dati.gov.it/sites/default/files/2021-03/	19 KB
+20 KB	71ms
+70ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dipartimento%20della%20funzione%20pubblica%20logo.png
+www.dati.gov.it/sites/default/files/2021-03/	18 KB
+18 KB	71ms
+70ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+pon%20logo.png
+www.dati.gov.it/sites/default/files/2021-03/	13 KB
+14 KB	112ms
+96ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+agid%20logo.png
+www.dati.gov.it/sites/default/files/2021-03/	20 KB
+21 KB	250ms
+245ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+jquery.min.js
+www.dati.gov.it/core/assets/vendor/jquery/	85 KB
+30 KB	115ms
+99ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+once.min.js
+www.dati.gov.it/core/assets/vendor/once/	1 KB
+1 KB	80ms
+64ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+it_Gr-l3EwhDHNFMlZ86zn0Jd5nvhbZyG6JrX6I3jiSwGg.js
+www.dati.gov.it/sites/default/files/languages/	12 KB
+5 KB	113ms
+98ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+drupalSettingsLoader.js
+www.dati.gov.it/core/misc/	691 B
+1 KB	80ms
+65ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+drupal.js
+www.dati.gov.it/core/misc/	21 KB
+7 KB	84ms
+69ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+drupal.init.js
+www.dati.gov.it/core/misc/	960 B
+1 KB	81ms
+66ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+version-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	208 B
+868 B	81ms
+67ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+data-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	529 B
+1 KB	82ms
+68ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+disable-selection-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	657 B
+1 KB	83ms
+69ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+form-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	277 B
+895 B	82ms
+68ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+jquery-patch-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	889 B
+1 KB	81ms
+67ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+scroll-parent-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	728 B
+1 KB	86ms
+72ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+unique-id-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	596 B
+1 KB	85ms
+71ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+focusable-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	993 B
+1 KB	108ms
+95ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ie-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	243 B
+897 B	83ms
+70ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+keycode-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	528 B
+1 KB	85ms
+72ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+plugin-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	502 B
+1014 B	82ms
+69ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+safe-active-element-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	324 B
+922 B	82ms
+69ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+safe-blur-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	272 B
+910 B	83ms
+70ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+widget-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	8 KB
+4 KB	106ms
+94ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+labels-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	730 B
+1 KB	136ms
+124ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+controlgroup-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	4 KB
+2 KB	136ms
+124ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+form-reset-mixin-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/	1 KB
+1 KB	140ms
+129ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+mouse-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	3 KB
+2 KB	137ms
+126ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+checkboxradio-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	4 KB
+2 KB	136ms
+125ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+draggable-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	18 KB
+5 KB	169ms
+158ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+resizable-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	18 KB
+6 KB	141ms
+130ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+button-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	6 KB
+3 KB	141ms
+130ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog-min.js
+www.dati.gov.it/core/assets/vendor/jquery.ui/ui/widgets/	13 KB
+5 KB	138ms
+128ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+index.umd.min.js
+www.dati.gov.it/core/assets/vendor/tabbable/	6 KB
+3 KB	138ms
+128ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+tua-bsl.umd.min.js
+www.dati.gov.it/core/assets/vendor/tua-body-scroll-lock/	4 KB
+2 KB	137ms
+127ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+script_js-2b5b7d00f21ba006fb91cfd0a5a4d7f7.js
+www.dati.gov.it/sites/default/files/asset_injector/js/	572 B
+1 KB	189ms
+180ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+title_fixer_for_images-f724158e51033e5368171072f88c880f.js
+www.dati.gov.it/sites/default/files/asset_injector/js/	167 B
+836 B	190ms
+180ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+progress.js
+www.dati.gov.it/core/misc/	5 KB
+2 KB	166ms
+156ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+loadjs.min.js
+www.dati.gov.it/core/assets/vendor/loadjs/	2 KB
+2 KB	136ms
+126ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+debounce.js
+www.dati.gov.it/core/misc/	1 KB
+1 KB	135ms
+126ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+announce.js
+www.dati.gov.it/core/misc/	4 KB
+2 KB	163ms
+154ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+message.js
+www.dati.gov.it/core/misc/	8 KB
+3 KB	164ms
+155ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ajax.js
+www.dati.gov.it/core/misc/	65 KB
+17 KB	186ms
+178ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ajax.js
+www.dati.gov.it/themes/contrib/stable/js/	297 B
+938 B	163ms
+154ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+displace.js
+www.dati.gov.it/core/misc/	8 KB
+3 KB	164ms
+156ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+jquery.tabbable.shim.js
+www.dati.gov.it/core/misc/	506 B
+1015 B	165ms
+157ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+position.js
+www.dati.gov.it/core/misc/	22 KB
+6 KB	167ms
+159ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog-deprecation.js
+www.dati.gov.it/core/misc/dialog/	1 KB
+1 KB	191ms
+184ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog.js
+www.dati.gov.it/core/misc/dialog/	3 KB
+2 KB	190ms
+183ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog.position.js
+www.dati.gov.it/core/misc/dialog/	4 KB
+2 KB	196ms
+189ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog.jquery-ui.js
+www.dati.gov.it/core/misc/dialog/	2 KB
+2 KB	193ms
+186ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ckeditor5.dialog.fix.js
+www.dati.gov.it/core/modules/ckeditor5/js/	849 B
+1 KB	193ms
+186ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dialog.ajax.js
+www.dati.gov.it/core/misc/dialog/	10 KB
+4 KB	218ms
+212ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+bundle.js
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/js/	376 KB
+104 KB	298ms
+292ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+bootstrap-select.min.js
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/js/	52 KB
+16 KB	249ms
+244ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+js.cookie.min.js
+www.dati.gov.it/core/assets/vendor/js-cookie/	2 KB
+1 KB	191ms
+185ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+eu_cookie_compliance.min.js
+www.dati.gov.it/modules/contrib/eu_cookie_compliance/js/	32 KB
+6 KB	220ms
+216ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+owl.carousel.js
+www.dati.gov.it/modules/custom/owlcarousel/lib/owl-carousel/	52 KB
+9 KB	220ms
+215ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+owlcarousel.js
+www.dati.gov.it/modules/custom/owlcarousel/js/	389 B
+923 B	189ms
+184ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+advanced_search.js
+www.dati.gov.it/modules/custom/gestioneutenti/js/	25 KB
+5 KB	218ms
+213ms	Script
+text/javascript	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+sprite.svg
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/icons/	45 KB
+46 KB	189ms
+185ms	Other
+image/svg+xml	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-agri-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	4 KB
+4 KB	222ms
+219ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-econ-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	2 KB
+2 KB	221ms
+218ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-educ-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	4 KB
+5 KB	265ms
+262ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-ener-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	2 KB
+3 KB	259ms
+256ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-envi-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	6 KB
+7 KB	227ms
+224ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-gove-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	3 KB
+3 KB	261ms
+259ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-heal-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	3 KB
+4 KB	268ms
+265ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-intr-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	6 KB
+7 KB	260ms
+258ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-just-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	3 KB
+4 KB	221ms
+220ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-regi-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	4 KB
+5 KB	262ms
+260ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-soci-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	3 KB
+4 KB	265ms
+264ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-tech-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	4 KB
+5 KB	266ms
+265ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+topic-tran-hover.png
+www.dati.gov.it/sites/default/files/2019-08/	2 KB
+3 KB	263ms
+262ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+agid-logo.png
+www.dati.gov.it/sites/default/files/	4 KB
+5 KB	196ms
+196ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H/1.1	200
+OK	matomo.js
+ingestion.webanalytics.italia.it/	64 KB
+66 KB	272ms
+96ms	Script
+application/javascript	35.152.38.193
+ AMAZON-02	
+ GET
+H2	200
+titillium-web-v10-latin-ext_latin-300.woff2
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/fonts/Titillium_Web/	18 KB
+18 KB	74ms
+73ms	Font
+font/woff2	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+titillium-web-v10-latin-ext_latin-700.woff2
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/fonts/Titillium_Web/	17 KB
+18 KB	73ms
+72ms	Font
+font/woff2	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+titillium-web-v10-latin-ext_latin-600.woff2
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/fonts/Titillium_Web/	18 KB
+18 KB	75ms
+74ms	Font
+font/woff2	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+titillium-web-v10-latin-ext_latin-regular.woff2
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/fonts/Titillium_Web/	18 KB
+18 KB	75ms
+74ms	Font
+font/woff2	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+titillium-web-v10-latin-ext_latin-700italic.woff2
+www.dati.gov.it/themes/contrib/bootstrap_italia/assets/fonts/Titillium_Web/	20 KB
+20 KB	77ms
+77ms	Font
+font/woff2	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+sprite.svg
+www.dati.gov.it/themes/icons/	42 KB
+43 KB	120ms
+119ms	Other
+image/svg+xml	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+datigov_elevazione.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	4 KB
+5 KB	159ms
+153ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dati%20relativi%20alla%20terra%20e%20all%27ambiente.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	5 KB
+6 KB	97ms
+91ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dati%20metereologici.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	4 KB
+5 KB	96ms
+91ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dati%20statistici.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	4 KB
+5 KB	100ms
+95ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dati%20relativi%20alle%20imprese.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	5 KB
+6 KB	91ms
+86ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+dati%20relativi%20alla%20terra%20e%20all%27ambiente_0.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2024-10/	5 KB
+6 KB	160ms
+155ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+ogw2025_profilo_social_s_0.jpg
+www.dati.gov.it/sites/default/files/styles/imagine_carousel/public/2025-05/	6 KB
+7 KB	154ms
+150ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+card_open_data_day_2025.png
+www.dati.gov.it/sites/default/files/styles/imagine_carousel/public/2025-03/	14 KB
+15 KB	159ms
+155ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+country-factsheet_italy_2024_2.png
+www.dati.gov.it/sites/default/files/styles/imagine_carousel/public/2025-01/	36 KB
+37 KB	92ms
+88ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+hackathon-Puglia_1.png
+www.dati.gov.it/sites/default/files/styles/imagine_carousel/public/2024-12/	28 KB
+28 KB	160ms
+157ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+md-eccellenti.png
+www.dati.gov.it/sites/default/files/styles/imagine_carousel/public/2024-12/	21 KB
+22 KB	158ms
+154ms	Image
+image/png	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Biodiversity.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+4 KB	156ms
+152ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Land%20Cover%20%26%20Use.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	5 KB
+6 KB	90ms
+87ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Topo%20%26%20reference%20data.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+5 KB	161ms
+158ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Elevation%2C%20ortho%20%26%20grids.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+5 KB	96ms
+93ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Facilities%20%26%20Utilities.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	5 KB
+6 KB	153ms
+150ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Marine%20%26%20Armosphere.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	5 KB
+6 KB	154ms
+152ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Environmental%20monitoring.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+5 KB	154ms
+151ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Earth%20Sciences.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+5 KB	92ms
+90ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ GET
+H2	200
+Statistics%20%26%20demography.jpg
+www.dati.gov.it/sites/default/files/styles/medium/public/2020-12/	4 KB
+5 KB	96ms
+94ms	Image
+image/jpeg	18.102.127.129
+ AMAZON-02	
+ POST
+H/1.1	204
+No Response	matomo.php
+ingestion.webanalytics.italia.it/	0
+0	189ms
+189ms	Ping
+text/html	35.152.38.193
+ AMAZON-02	
+ GET
+H2	200
+favicon.ico
+www.dati.gov.it/themes/icons/	2 KB
+3 KB	67ms
+67ms	Other
+image/vnd.microsoft.icon	18.102.127.129
+ AMAZON-02	
+
+
+
+--------------------------------------------------------------------------
+
+20 Outgoing links
+These are links going to different origins than the main page.
+
+URL: https://www.agid.gov.it/
+Title: Agenzia per l'Italia Digitale
+  
+
+URL: https://avanzamentodigitale.italia.it/it
+Title: Avanzamento digitale
+  
+
+URL: https://geodati.gov.it/geoportale/
+Title: Geodati
+  
+
+URL: https://www.google.it/maps/place/Via+Liszt,+21,+00144+Roma+RM/@41.8336525,12.4653778,17z/data=!3m1!4b1!4m5!3m4!1s0x13258ae3d27bf449:0x5aa2ce4a30bafdda!8m2!3d41.8336485!4d12.4675665
+Title: Via Liszt 21 - 00144 Roma
+  
+
+URL: https://www.agid.gov.it/it/dati/basi-dati-interesse-nazionale
+Title: Basi Dati di Interesse Nazionale
+  
+
+URL: https://registry.geodati.gov.it/registry
+Title: Sistema di Registri INSPIRE
+  
+
+URL: https://inspire-geoportal.ec.europa.eu/
+Title: INSPIRE Geoportal
+  
+
+URL: https://inspire-regadmin.jrc.ec.europa.eu/ror
+Title: INSPIRE Register Federation
+  
+
+URL: https://data.europa.eu/
+Title: data.europa.eu
+  
+
+URL: https://webanalytics.italia.it/
+Title: Web Analytics Italia
+  
+
+URL: https://indicepa.gov.it/documentale/index.php
+Title: Indice delle PA
+  
+
+URL: https://www.facebook.com/AgIDGovIT/
+  
+
+URL: https://medium.com/@AgidGov
+  
+
+URL: https://twitter.com/DatiGovIT
+  
+
+URL: https://www.youtube.com/channel/UCxJmOWf__YcLgB19gy5dGQQ
+  
+
+URL: https://ec.europa.eu/italy/home_it
+  
+
+URL: https://www.agenziacoesione.gov.it/
+  
+
+URL: http://www.funzionepubblica.gov.it/
+  
+
+URL: http://www.pongovernance1420.gov.it/
+  
+
+URL: https://form.agid.gov.it/view/9a191550-7a67-11ef-9ed6-c906a7e0dcc8
+Title: Dichiarazione di accessibilità
+  
+
+
